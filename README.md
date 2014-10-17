@@ -1,4 +1,4 @@
-This is a four man group project to build search engine project, (like a scaled-down version of Lucene). 
+This is a four man group project to build search engine project (like a scaled-down version of Lucene). 
 
 Project Sketch:
 
